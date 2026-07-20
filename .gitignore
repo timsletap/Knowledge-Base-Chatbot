@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .playwright-mcp/
 .streamlit/secrets.toml
+.claude/
+.gstack/
