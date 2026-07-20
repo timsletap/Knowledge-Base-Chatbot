@@ -1,0 +1,111 @@
+[
+  {
+    "id": "appetite-vs-craving",
+    "question": "What is the difference between appetite and a craving, and why does willpower fail?",
+    "lesson": "Appetite vs Craving",
+    "format": "Article",
+    "link": "https://example.com/kb/appetite-vs-craving",
+    "summary": "Learn to tell true hunger from a craving, and manage each signal directly instead of relying on willpower.",
+    "when_this_helps": [
+      "You keep relying on willpower to stop cravings",
+      "You feel hungry again soon after eating",
+      "Certain foods feel impossible to resist"
+    ]
+  },
+  {
+    "id": "habit-formation-basics",
+    "question": "How do I build habits that protect my diet?",
+    "lesson": "Habit Formation Basics",
+    "format": "Article",
+    "link": "https://example.com/kb/habit-formation-basics",
+    "summary": "Why small repeatable routines beat motivation, and how to stack new food habits onto ones you already have.",
+    "when_this_helps": [
+      "You start strong and then drift after a few weeks",
+      "Your diet falls apart when your schedule changes"
+    ]
+  },
+  {
+    "id": "eating-out-smarter-choices",
+    "question": "How can I eat out while staying low carb?",
+    "lesson": "Eating Out, Smarter Choices",
+    "format": "Guide",
+    "link": "https://example.com/kb/eating-out-smarter-choices",
+    "summary": "A simple menu playbook: scan for protein first, swap the starch, and order sauces on the side.",
+    "when_this_helps": [
+      "Restaurant menus derail your plan",
+      "Work lunches and social dinners feel risky"
+    ]
+  },
+  {
+    "id": "decision-fatigue",
+    "question": "Why do I get decision fatigue around food, and what helps?",
+    "lesson": "Decision Fatigue",
+    "format": "Article",
+    "link": "https://example.com/kb/decision-fatigue",
+    "summary": "Every food choice drains the same mental battery. Cut the number of daily food decisions with defaults and pre-planning.",
+    "when_this_helps": [
+      "Evenings end in unplanned snacking",
+      "Choosing meals feels exhausting by the end of the day"
+    ]
+  },
+  {
+    "id": "protein-first-plates",
+    "question": "How should I build my plate around protein at each meal?",
+    "lesson": "Protein-First Plates",
+    "format": "Guide",
+    "link": "https://example.com/kb/protein-first-plates",
+    "summary": "Build every plate starting from a palm-sized protein portion, then add vegetables and fats to stay satisfied longer.",
+    "when_this_helps": [
+      "Meals do not keep you full",
+      "You are unsure what a balanced plate looks like"
+    ]
+  },
+  {
+    "id": "sleep-and-appetite",
+    "question": "How does poor sleep affect hunger the next day?",
+    "lesson": "Sleep and Appetite",
+    "format": "Article",
+    "link": "https://example.com/kb/sleep-and-appetite",
+    "summary": "Short nights raise hunger hormones and make high-calorie options more tempting. Practical steps to protect your sleep.",
+    "when_this_helps": [
+      "You are noticeably hungrier after a bad night",
+      "Late nights lead to late snacking"
+    ]
+  },
+  {
+    "id": "smart-snack-swaps",
+    "question": "What can I snack on that will not spike my blood sugar?",
+    "lesson": "Smart Snack Swaps",
+    "format": "Cheat sheet",
+    "link": "https://example.com/kb/smart-snack-swaps",
+    "summary": "Direct swaps for common snacks, each one trading refined starch or sugar for protein and fiber.",
+    "when_this_helps": [
+      "Afternoon snacking is your weak point",
+      "You want easy grab-and-go options"
+    ]
+  },
+  {
+    "id": "reading-nutrition-labels",
+    "question": "How do I read a nutrition label for hidden carbs and sugar?",
+    "lesson": "Reading Nutrition Labels",
+    "format": "Guide",
+    "link": "https://example.com/kb/reading-nutrition-labels",
+    "summary": "Where sugar hides on ingredient lists, which numbers matter, and how serving sizes distort the picture.",
+    "when_this_helps": [
+      "Packaged foods keep surprising you",
+      "Marketing claims like 'natural' confuse the choice"
+    ]
+  },
+  {
+    "id": "trusted-health-info",
+    "question": "Where can I find trustworthy medical and nutrition information?",
+    "lesson": "Trusted Health Information",
+    "format": "Link collection",
+    "link": "https://medlineplus.gov/",
+    "summary": "Vetted starting points for medical questions. For personal medical advice, please talk to a clinician who knows your history.",
+    "when_this_helps": [
+      "You have a medical question this knowledge base does not cover",
+      "You want a reliable second source before changing anything"
+    ]
+  }
+]
