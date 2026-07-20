@@ -18,6 +18,11 @@ def render_response(response: dict) -> None:
     primary = response["primary"]
     st.markdown(f"**[{primary['title']}]({primary['link']})** · {primary['format']}")
     st.markdown(primary["summary"])
+    if primary.get("when_this_helps"):
+        st.markdown(
+            "**When this helps:**\n"
+            + "\n".join(f"- {line}" for line in primary["when_this_helps"])
+        )
     if response["related"]:
         links = " · ".join(
             f"[{r['title']}]({r['link']})" for r in response["related"]

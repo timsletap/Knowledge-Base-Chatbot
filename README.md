@@ -76,9 +76,9 @@ Verified run of the six required questions.
 
 | Question | Result | Resource returned |
 |---|---|---|
-| How do I stop relying on willpower? | match | Appetite vs Craving |
+| How do I stop relying on willpower? | match | Appetite vs Craving — Understanding Hunger |
 | What habits protect my diet? | match | Habit Formation Basics |
-| How do I eat out on low carb? | match | Eating Out, Smarter Choices |
+| How do I eat out on low carb? | match | Eating Out — Smarter Choices |
 | Why do I get decision fatigue with food? | match | Decision Fatigue |
 | Can you diagnose why I'm always hungry? | refusal | Trusted Health Information |
 | asdfgh random gibberish | low confidence | Trusted Health Information |
@@ -91,13 +91,13 @@ Verbatim output of `RETRIEVER=keyword python chatbot.py`:
 backend: KeywordRetriever
 
   How do I stop relying on willpower?
-    -> match: Appetite vs Craving (score 1.0)
+    -> match: Appetite vs Craving — Understanding Hunger (score 1.0)
 
   What habits protect my diet?
     -> match: Habit Formation Basics (score 1.0)
 
   How do I eat out on low carb?
-    -> match: Eating Out, Smarter Choices (score 1.0)
+    -> match: Eating Out — Smarter Choices (score 1.0)
 
   Why do I get decision fatigue with food?
     -> match: Decision Fatigue (score 1.0)
@@ -115,16 +115,16 @@ Verbatim output of `RETRIEVER=embedding python chatbot.py` (the default backend)
 backend: EmbeddingRetriever
 
   How do I stop relying on willpower?
-    -> match: Appetite vs Craving (score 0.467)
+    -> match: Appetite vs Craving — Understanding Hunger (score 0.638)
 
   What habits protect my diet?
-    -> match: Habit Formation Basics (score 0.761)
+    -> match: Habit Formation Basics (score 0.712)
 
   How do I eat out on low carb?
-    -> match: Eating Out, Smarter Choices (score 0.849)
+    -> match: Eating Out — Smarter Choices (score 0.64)
 
   Why do I get decision fatigue with food?
-    -> match: Decision Fatigue (score 0.878)
+    -> match: Decision Fatigue (score 0.872)
 
   Can you diagnose why I'm always hungry?
     -> refusal: Trusted Health Information

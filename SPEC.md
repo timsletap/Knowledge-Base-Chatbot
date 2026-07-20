@@ -125,6 +125,7 @@ The patterns must stay narrow. A broad pattern such as `why do i` would wrongly 
         "format": str,
         "link": str,
         "summary": str,
+        "when_this_helps": list[str],
     },
     "related": [             # possibly empty
         {"title": str, "link": str},

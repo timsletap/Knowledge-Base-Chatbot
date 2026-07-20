@@ -1,111 +1,119 @@
 [
   {
     "id": "appetite-vs-craving",
-    "question": "What is the difference between appetite and a craving, and why does willpower fail?",
-    "lesson": "Appetite vs Craving",
+    "question": "How do I stop relying on just willpower to lose weight?",
+    "lesson": "Appetite vs Craving — Understanding Hunger",
     "format": "Article",
-    "link": "https://example.com/kb/appetite-vs-craving",
-    "summary": "Learn to tell true hunger from a craving, and manage each signal directly instead of relying on willpower.",
+    "link": "https://medlineplus.gov/ency/article/003134.htm",
+    "summary": "This resource explains physiological hunger signals and how they differ from other drivers of eating. Use it to shift from \"just try harder\" toward recognizing true hunger versus habit or emotion-driven urges.",
     "when_this_helps": [
-      "You keep relying on willpower to stop cravings",
-      "You feel hungry again soon after eating",
-      "Certain foods feel impossible to resist"
+      "Distinguishing true hunger from emotional cravings",
+      "Moving beyond willpower as your only tool",
+      "Building awareness before changing habits"
     ]
   },
   {
     "id": "habit-formation-basics",
-    "question": "How do I build habits that protect my diet?",
+    "question": "What specific daily habits can I use to protect my diet from failure?",
     "lesson": "Habit Formation Basics",
     "format": "Article",
-    "link": "https://example.com/kb/habit-formation-basics",
-    "summary": "Why small repeatable routines beat motivation, and how to stack new food habits onto ones you already have.",
+    "link": "https://en.wikipedia.org/wiki/Habit",
+    "summary": "Covers how habits form, cues/routines/rewards, and why environment design beats motivation alone. Map this to practical daily protections (planning meals, removing triggers, consistent routines).",
     "when_this_helps": [
-      "You start strong and then drift after a few weeks",
-      "Your diet falls apart when your schedule changes"
+      "Navigating late-night cravings",
+      "Making environments \"safer\" from temptation",
+      "Building sustainable long-term habits"
     ]
   },
   {
     "id": "eating-out-smarter-choices",
-    "question": "How can I eat out while staying low carb?",
-    "lesson": "Eating Out, Smarter Choices",
-    "format": "Guide",
-    "link": "https://example.com/kb/eating-out-smarter-choices",
-    "summary": "A simple menu playbook: scan for protein first, swap the starch, and order sauces on the side.",
+    "question": "How can I eat at a restaurant without breaking a low-carb approach?",
+    "lesson": "Eating Out — Smarter Choices",
+    "format": "Article",
+    "link": "https://medlineplus.gov/ency/patientinstructions/000733.htm",
+    "summary": "Practical guidance on restaurant eating, portion awareness, and requesting modifications. Pair with checking menus ahead and swapping starches for protein or vegetables.",
     "when_this_helps": [
-      "Restaurant menus derail your plan",
-      "Work lunches and social dinners feel risky"
+      "Social dining situations",
+      "Avoiding hidden sugars and refined carbs",
+      "Getting comfortable asking for menu modifications"
     ]
   },
   {
     "id": "decision-fatigue",
-    "question": "Why do I get decision fatigue around food, and what helps?",
+    "question": "Why do I feel decision fatigue around food by the end of the day?",
     "lesson": "Decision Fatigue",
     "format": "Article",
-    "link": "https://example.com/kb/decision-fatigue",
-    "summary": "Every food choice drains the same mental battery. Cut the number of daily food decisions with defaults and pre-planning.",
+    "link": "https://en.wikipedia.org/wiki/Decision_fatigue",
+    "summary": "Explains how repeated choices deplete decision quality. Useful for designing default meals, simplifying options, and reducing evening \"what should I eat?\" failure points.",
     "when_this_helps": [
-      "Evenings end in unplanned snacking",
-      "Choosing meals feels exhausting by the end of the day"
+      "End-of-day overeating patterns",
+      "Simplifying food choices in advance",
+      "Understanding why willpower fails at night"
     ]
   },
   {
-    "id": "protein-first-plates",
-    "question": "How should I build my plate around protein at each meal?",
-    "lesson": "Protein-First Plates",
-    "format": "Guide",
-    "link": "https://example.com/kb/protein-first-plates",
-    "summary": "Build every plate starting from a palm-sized protein portion, then add vegetables and fats to stay satisfied longer.",
-    "when_this_helps": [
-      "Meals do not keep you full",
-      "You are unsure what a balanced plate looks like"
-    ]
-  },
-  {
-    "id": "sleep-and-appetite",
-    "question": "How does poor sleep affect hunger the next day?",
-    "lesson": "Sleep and Appetite",
+    "id": "food-reward-cravings",
+    "question": "What is \"food reward\" and why do some foods feel irresistible?",
+    "lesson": "Food Reward & Cravings",
     "format": "Article",
-    "link": "https://example.com/kb/sleep-and-appetite",
-    "summary": "Short nights raise hunger hormones and make high-calorie options more tempting. Practical steps to protect your sleep.",
+    "link": "https://en.wikipedia.org/wiki/Food_craving",
+    "summary": "Overview of food cravings and reward-driven eating. Helps members separate biological/psychological pull from simple hunger.",
     "when_this_helps": [
-      "You are noticeably hungrier after a bad night",
-      "Late nights lead to late snacking"
+      "Understanding cravings for highly palatable foods",
+      "Talking about reward without shame",
+      "Choosing strategies beyond \"just say no\""
     ]
   },
   {
-    "id": "smart-snack-swaps",
-    "question": "What can I snack on that will not spike my blood sugar?",
-    "lesson": "Smart Snack Swaps",
-    "format": "Cheat sheet",
-    "link": "https://example.com/kb/smart-snack-swaps",
-    "summary": "Direct swaps for common snacks, each one trading refined starch or sugar for protein and fiber.",
+    "id": "blood-sugar-cravings",
+    "question": "How do blood sugar swings relate to cravings?",
+    "lesson": "Blood Sugar & Cravings",
+    "format": "Article",
+    "link": "https://medlineplus.gov/bloodsugar.html",
+    "summary": "Educational overview of blood sugar concepts. Use to explain why unstable energy and carb-heavy patterns can intensify craving cycles — without diagnosing any individual.",
     "when_this_helps": [
-      "Afternoon snacking is your weak point",
-      "You want easy grab-and-go options"
+      "Connecting energy crashes to craving spikes",
+      "Understanding glycemia at a high level",
+      "Finding starter reading before coaching calls"
     ]
   },
   {
-    "id": "reading-nutrition-labels",
-    "question": "How do I read a nutrition label for hidden carbs and sugar?",
-    "lesson": "Reading Nutrition Labels",
-    "format": "Guide",
-    "link": "https://example.com/kb/reading-nutrition-labels",
-    "summary": "Where sugar hides on ingredient lists, which numbers matter, and how serving sizes distort the picture.",
+    "id": "learned-helplessness",
+    "question": "What is learned helplessness in the context of repeated diet failure?",
+    "lesson": "Learned Helplessness",
+    "format": "Article",
+    "link": "https://en.wikipedia.org/wiki/Learned_helplessness",
+    "summary": "Describes how repeated perceived failure can reduce agency. Useful framing when members feel \"nothing works\" — redirect to structured strategy and support, not self-blame.",
     "when_this_helps": [
-      "Packaged foods keep surprising you",
-      "Marketing claims like 'natural' confuse the choice"
+      "After multiple yo-yo diet cycles",
+      "Reframing \"I always fail\" narratives",
+      "Encouraging small controllable next steps"
+    ]
+  },
+  {
+    "id": "moderation-pros-limits",
+    "question": "Is \"everything in moderation\" always good advice?",
+    "lesson": "Moderation — Pros and Limits",
+    "format": "Article",
+    "link": "https://medlineplus.gov/ency/article/002458.htm",
+    "summary": "Balanced nutrition overview. Use when discussing that moderation works differently depending on the food and the person — some cues are harder to moderate than others.",
+    "when_this_helps": [
+      "Debating moderation vs structured approaches",
+      "Setting realistic food rules",
+      "Avoiding one-size-fits-all slogans"
     ]
   },
   {
     "id": "trusted-health-info",
-    "question": "Where can I find trustworthy medical and nutrition information?",
+    "question": "Where should I go if I need general, reliable health information?",
     "lesson": "Trusted Health Information",
-    "format": "Link collection",
-    "link": "https://medlineplus.gov/",
-    "summary": "Vetted starting points for medical questions. For personal medical advice, please talk to a clinician who knows your history.",
+    "format": "Article",
+    "link": "https://medlineplus.gov/aboutmedlineplus.html",
+    "summary": "Explains MedlinePlus as a starting point for consumer health information. Prefer linking here (or other KB entries) over inventing medical guidance.",
     "when_this_helps": [
-      "You have a medical question this knowledge base does not cover",
-      "You want a reliable second source before changing anything"
+      "User asks for medical advice the bot cannot give",
+      "Low-confidence / unmatched queries",
+      "Handing off to reputable reading instead of guessing"
     ]
   }
 ]

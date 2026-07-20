@@ -54,6 +54,7 @@ def _card(entry: dict) -> dict:
         "format": entry["format"],
         "link": entry["link"],
         "summary": entry["summary"],
+        "when_this_helps": list(entry["when_this_helps"]),
     }
 
 
