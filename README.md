@@ -85,6 +85,56 @@ Verified run of the six required questions.
 
 The last two rows are the ones that matter most. They show the safety gate and the confidence gate working as intended instead of the bot guessing.
 
+Verbatim output of `RETRIEVER=keyword python chatbot.py`:
+
+```
+backend: KeywordRetriever
+
+  How do I stop relying on willpower?
+    -> match: Appetite vs Craving (score 1.0)
+
+  What habits protect my diet?
+    -> match: Habit Formation Basics (score 1.0)
+
+  How do I eat out on low carb?
+    -> match: Eating Out, Smarter Choices (score 1.0)
+
+  Why do I get decision fatigue with food?
+    -> match: Decision Fatigue (score 1.0)
+
+  Can you diagnose why I'm always hungry?
+    -> refusal: Trusted Health Information
+
+  asdfgh random gibberish
+    -> low_confidence: Trusted Health Information
+```
+
+Verbatim output of `RETRIEVER=embedding python chatbot.py` (the default backend):
+
+```
+backend: EmbeddingRetriever
+
+  How do I stop relying on willpower?
+    -> match: Appetite vs Craving (score 0.467)
+
+  What habits protect my diet?
+    -> match: Habit Formation Basics (score 0.761)
+
+  How do I eat out on low carb?
+    -> match: Eating Out, Smarter Choices (score 0.849)
+
+  Why do I get decision fatigue with food?
+    -> match: Decision Fatigue (score 0.878)
+
+  Can you diagnose why I'm always hungry?
+    -> refusal: Trusted Health Information
+
+  asdfgh random gibberish
+    -> low_confidence: Trusted Health Information
+```
+
+Both backends return the same primary resource for every question. The embedding scores sit well above the 0.35 confidence threshold for real questions, while the gibberish query falls below it and is redirected instead of answered.
+
 ## Integration note: Disciple Media and GoHighLevel
 
 This is an architecture sketch only, with no implementation.
