@@ -2,7 +2,7 @@
 
 A chatbot that answers questions by pointing users to the exact resource in a knowledge base: lesson title, format, link, and a short summary. It never invents answers and never gives personal medical advice. It only retrieves and guides from the provided knowledge base.
 
-**Live demo:** _add your Streamlit Cloud link_
+**Live demo:** https://kb-chatbot.streamlit.app/
 **Repo:** https://github.com/timsletap/Knowledge-Base-Chatbot
 
 ## Overview
